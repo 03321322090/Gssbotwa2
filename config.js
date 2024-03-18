@@ -22,7 +22,7 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𓄂𓃬𝑨𝑳𝑰 𝑩𝑨𝑩𝑨109𓄂⁩𓃬;
+global.ownername = ..,𓄂𓃬𝑨𝑳𝑰 𝑩𝑨𝑩𝑨109𓄂⁩𓃬;
 global.owner = ['48459436584'];
 global.premium = ['48459436584'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
