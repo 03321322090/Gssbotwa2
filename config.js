@@ -21,13 +21,13 @@ global.APIs = {
  
 
 // Other
-global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = ..,𓄂𓃬𝑨𝑳𝑰 𝑩𝑨𝑩𝑨109𓄂⁩𓃬;
-global.owner = ['48459436584'];
-global.premium = ['48459436584'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
-global.sessionName = 'session';
+global.apikey = https://telegra.ph/file/be51b14c863c11dd8ccc6.jpg;
+global.ownername = .Nazeerkk236🍬🧃;
+global.owner = [''923317715206];
+global.premium = ['923317715206'];
+global.packname = 'Nazeerkk236🍬🧃';
+global.author = 'Nazeerkk236🍬🧃';
+global.sessionName = 'https://chat.whatsapp.com/HLaHhHH9RedKDSgoBtNzDQsession';
 global.prefa = ['', '!', '.'];
 global.sp = '✪';
 global.mess = {
